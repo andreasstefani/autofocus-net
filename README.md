@@ -4,7 +4,7 @@
 
 This is a NiftyNet-based implementation of the Autofocus Net and autofocus convolutional layer [2].
 
-![Image of 3D WNet with Autofocus Layers](https://github.com/andreasstefani/autofocus-layer/blob/master/src/architecture.png)
+![Image of 3D WNet with Autofocus Layers](https://github.com/andreasstefani/autofocus-net/blob/master/src/architecture.png)
 
 ## Citation
 
